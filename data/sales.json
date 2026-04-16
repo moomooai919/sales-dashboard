@@ -1,0 +1,90 @@
+{
+  "updated_at": "2026-04-16 21:58",
+  "latest_order_date": "2026-03-15",
+  "total_orders": 598,
+  "total_sales": 7116.0,
+  "total_income": 6902.1,
+  "mom_growth": 144.5,
+  "monthly": [
+    {
+      "month": "2025-11",
+      "orders": 353,
+      "sales": 3947.0,
+      "income": 3828.59
+    },
+    {
+      "month": "2025-12",
+      "orders": 61,
+      "sales": 869.0,
+      "income": 842.93
+    },
+    {
+      "month": "2026-01",
+      "orders": 127,
+      "sales": 1685.7,
+      "income": 1634.88
+    },
+    {
+      "month": "2026-02",
+      "orders": 17,
+      "sales": 178.3,
+      "income": 172.9
+    },
+    {
+      "month": "2026-03",
+      "orders": 40,
+      "sales": 436.0,
+      "income": 422.8
+    }
+  ],
+  "products": [
+    {
+      "product": "Tiny Lands",
+      "orders": 442,
+      "sales": 4519.3,
+      "income": 4383.37
+    },
+    {
+      "product": "Tiny Lands Complete Set",
+      "orders": 70,
+      "sales": 1850.0,
+      "income": 1794.5
+    },
+    {
+      "product": "Tiny Lands Expansion Pack 3",
+      "orders": 18,
+      "sales": 116.0,
+      "income": 112.52
+    },
+    {
+      "product": "Tiny Lands Expansion Pack 2",
+      "orders": 17,
+      "sales": 111.0,
+      "income": 107.67
+    },
+    {
+      "product": "Tiny Lands The Final Challenge",
+      "orders": 16,
+      "sales": 104.0,
+      "income": 100.88
+    },
+    {
+      "product": "Solstice Chronicles MIA",
+      "orders": 14,
+      "sales": 138.6,
+      "income": 134.4
+    },
+    {
+      "product": "Tiny Lands Expansion Pack 1",
+      "orders": 12,
+      "sales": 78.0,
+      "income": 75.66
+    },
+    {
+      "product": "Log Away",
+      "orders": 9,
+      "sales": 199.1,
+      "income": 193.1
+    }
+  ]
+}
